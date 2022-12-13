@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 200;
+}
+
+header {
+    background-color: #5a71bb;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+
+.cadastrar-produto {
+    margin-top: 20px 0;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.cadastrar-produto input[type=text] {
+    flex:1;
+    height: 40px;
+    margin-right: 20px;
+    padding-left: 10px;
+}
+
+.lista-produtos-single {
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+}
+
+.lista-produtos-single h3 {
+    flex: 1;
+    padding: 0 10px;
+}
+
+.price-produto {
+    text-align: right;
+    border-radius: 100px;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.price-produto span {
+    background-color: #5a71bb;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+.total {
+    margin: 30px 10px;
+}
