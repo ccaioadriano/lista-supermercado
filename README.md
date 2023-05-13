@@ -40,7 +40,3 @@ A aplicação consiste em um CRUD básico para gerenciamento de itens de uma lis
 3. Faça o _commit_ (`git commit -am 'Add some feature'`)
 4. _Push_ (`git push origin feature/sua-feature`)
 5. Crie um novo _Pull Request_.
-
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
